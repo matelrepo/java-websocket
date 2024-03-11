@@ -1,4 +1,4 @@
-package com.himanshu.websocketclientserver;
+package io.matel.websocketclientserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

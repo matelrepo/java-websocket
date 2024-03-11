@@ -1,6 +1,6 @@
-package com.himanshu.websocketclientserver.clients;
+package io.matel.websocketclientserver.clients;
 
-import com.himanshu.websocketclientserver.server.Candle;
+import io.matel.websocketclientserver.server.Candle;
 import org.springframework.messaging.converter.MappingJackson2MessageConverter;
 import org.springframework.messaging.simp.stomp.StompHeaders;
 import org.springframework.messaging.simp.stomp.StompSession;

@@ -1,4 +1,4 @@
-package com.himanshu.websocketclientserver.server;
+package io.matel.websocketclientserver.server;
 
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;

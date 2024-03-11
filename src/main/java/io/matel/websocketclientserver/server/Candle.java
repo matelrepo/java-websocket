@@ -1,4 +1,4 @@
-package com.himanshu.websocketclientserver.server;
+package io.matel.websocketclientserver.server;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

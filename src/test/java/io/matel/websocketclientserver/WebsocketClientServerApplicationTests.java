@@ -1,4 +1,4 @@
-package com.himanshu.websocketclientserver;
+package io.matel.websocketclientserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
